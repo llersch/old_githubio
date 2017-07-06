@@ -12,12 +12,23 @@
 
 
 ### TU Kaiserslautern
+- Master Thesis: "Decoupled Propagation for DBMS Architecture"
+- Guided Research: "Filtering and Indexing in a Partially-sorted Log Archive"
+- Seminar: "Foster B+Trees"
+- Algorithms for database buffer in PCM
+- [Multi-Agent Systems: Dutch-Auction Agent](https://bitbucket.org/lslersch/mas-project/overview)
+- Bachelor Thesis: "Lock-free Buffer for WattDB"
  
  
 ### UFRGS
+- Flight Simulator in OpenGL
+- King's Run: MinMax AI board game
+- FoDS: spaceship game using Unity3D
  
  
 ## Areas of interest
+
+Database systems, Transaction processing, Data management on mordern hardware, Concurrent and parallel programming, Information systems, Operating Systems
 
 
 ### Support or Contact
