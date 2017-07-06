@@ -12,6 +12,7 @@
 
 
 ### TU Kaiserslautern
+
 - Master Thesis: "Decoupled Propagation for DBMS Architecture"
 - Guided Research: "Filtering and Indexing in a Partially-sorted Log Archive"
 - Seminar: "Foster B+Trees"
@@ -21,6 +22,7 @@
  
  
 ### UFRGS
+
 - Flight Simulator in OpenGL
 - King's Run: MinMax AI board game
 - FoDS: spaceship game using Unity3D
