@@ -8,33 +8,13 @@
 
 - **[2008-2013]** Bachelor of Science (BSc), [Computer Science](http://www.inf.ufrgs.br/) at [UFRGS](http://www.ufrgs.com/), Brazil.
 
-### Markdown
+## Academic Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TU Kaiserslautern
 
-```markdown
-Syntax highlighted code block
+### UFRGS
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llersch/llersch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Areas of interest
 
 ### Support or Contact
 
