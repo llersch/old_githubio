@@ -2,23 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-  width:270;
-  float:none;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-section {
-  width:500;
-  float:none;
-  padding-bottom:50px;
-}
-
-footer {
-  width:270;
-  float:none;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
