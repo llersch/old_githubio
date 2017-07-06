@@ -10,11 +10,15 @@
 
 ## Academic Projects
 
+
 ### TU Kaiserslautern
-
+ 
+ 
 ### UFRGS
-
+ 
+ 
 ## Areas of interest
+
 
 ### Support or Contact
 
