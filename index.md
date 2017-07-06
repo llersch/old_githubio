@@ -1,6 +1,6 @@
 ## Biography
 
-- **[2016-...]** PhD Candidate, Computer Science / [Database Systems](https://wwwdb.inf.tu-dresden.de/) at [TU Dresden](https://tu-dresden.de/) & [SAP SE](https://www.sap.com/index.html)
+- **[2016-current]** PhD Candidate, Computer Science / [Database Systems](https://wwwdb.inf.tu-dresden.de/) at [TU Dresden](https://tu-dresden.de/) & [SAP SE](https://www.sap.com/index.html)
 
 - **[2013-2015]** Master of Science (MSc), Computer Science at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
 
