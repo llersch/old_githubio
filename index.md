@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/llersch/llersch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[2013-2015]** Master of Science (MSc), Computer Science at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
+**[2012-2013]** Exchange Student / Research Assistant, [DBIS](http://lgis.informatik.uni-kl.de/cms/index.php?id=3) at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
+**[2008-2013]** Bachelor of Science (BSc), [Computer Science](http://www.inf.ufrgs.br/) at [UFRGS](http://www.ufrgs.com/), Brazil.
 
 ### Markdown
 
