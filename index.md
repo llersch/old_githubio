@@ -1,8 +1,8 @@
 ## Biography
 
-**[2013-2015]** Master of Science (MSc), Computer Science at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
-**[2012-2013]** Exchange Student / Research Assistant, [DBIS](http://lgis.informatik.uni-kl.de/cms/index.php?id=3) at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
-**[2008-2013]** Bachelor of Science (BSc), [Computer Science](http://www.inf.ufrgs.br/) at [UFRGS](http://www.ufrgs.com/), Brazil.
+- **[2013-2015]** Master of Science (MSc), Computer Science at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
+- **[2012-2013]** Exchange Student / Research Assistant, [DBIS](http://lgis.informatik.uni-kl.de/cms/index.php?id=3) at [TU Kaiserslautern](http://www.uni-kl.de/startseite/), Germany.
+- **[2008-2013]** Bachelor of Science (BSc), [Computer Science](http://www.inf.ufrgs.br/) at [UFRGS](http://www.ufrgs.com/), Brazil.
 
 ### Markdown
 
