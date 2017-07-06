@@ -1,4 +1,4 @@
-# Lucas Lersch
+title: [Lucas Lersch]
 
 ## Welcome to GitHub Pages
 
