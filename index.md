@@ -20,8 +20,8 @@
  
 ### UFRGS
 
-- Flight Simulator in OpenGL
-- King's Run: MinMax AI board game
+- [Flight Simulator in OpenGL](https://github.com/llersch/fcg20111/wiki)
+- [King's Run: MinMax AI board game](https://github.com/llersch/kingsrun/wiki)
 - FoDS: spaceship game using Unity3D
  
  
