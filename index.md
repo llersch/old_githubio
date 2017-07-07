@@ -13,7 +13,7 @@
 - Master Thesis: "Decoupled Propagation for DBMS Architecture"
 - Guided Research: "Filtering and Indexing in a Partially-sorted Log Archive"
 - Seminar: "Foster B+Trees"
-- [Algorithms for database buffer in PCM](https://bitbucket.org/lslersch/eessd/overview)
+- [Algorithms for database buffer in PCM](https://bitbucket.org/lslersch/eessd/overview)[presentation](https://llersch.github.io/assets/wear_aware_pcm_buffer.pdf)
 - [Multi-Agent Systems: Dutch-Auction Agent](https://bitbucket.org/lslersch/mas-project/overview)
 - Bachelor Thesis: "Lock-free Buffer for WattDB"
  
