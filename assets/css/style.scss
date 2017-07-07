@@ -4,17 +4,17 @@
 @import "{{ site.theme }}";
 
 header {
-  float:none
-  position:static
-  width:auto
+  float:none;
+  position:static;
+  width:auto;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-right:320px;
 }
 
 section {
-  float:none
-  position:static
-  width:auto
+  float:none;
+  position:static;
+  width:auto;
   padding-bottom:50px;
   border:1px solid #e5e5e5;
   border-width:1px 0;
@@ -23,9 +23,9 @@ section {
 }
 
 footer {
-  float:none
-  position:static
-  width:auto
+  float:none;
+  position:static;
+  width:auto;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
