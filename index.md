@@ -12,7 +12,7 @@
 
 - Master Thesis: "Decoupled Propagation for DBMS Architecture" [[pdf]](https://llersch.github.io/assets/decoupled_propagation_for_dbms_architectures.pdf) [[presentation]](https://llersch.github.io/assets/decoupled_propagation.pdf)
 - Guided Research: "Filtering and Indexing in a Partially-sorted Log Archive" [[pdf]](https://llersch.github.io/assets/indexinglogarchive.pdf)
-- Seminar: "Foster B+Trees" [[pdf]](https://llersch.github.io/master/assets/foster_b_trees.pdf) [[presentation]](https://llersch.github.io/assets/presentation_foster_b_trees.pdf)
+- Seminar: "Foster B+Trees" [[pdf]](https://llersch.github.io/assets/foster_b_trees.pdf) [[presentation]](https://llersch.github.io/assets/presentation_foster_b_trees.pdf)
 - [Algorithms for database buffer in PCM](https://bitbucket.org/lslersch/eessd/overview) [[presentation]](https://llersch.github.io/assets/wear_aware_pcm_buffer.pdf)
 - [Multi-Agent Systems: Dutch-Auction Agent](https://bitbucket.org/lslersch/mas-project/overview)
 - Bachelor Thesis: "Lock-free Buffer for WattDB"
