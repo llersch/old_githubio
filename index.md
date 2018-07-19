@@ -8,7 +8,7 @@
 ## Academic Projects
 
 ### TU Dresden & SAP SE
-- "Rethinking DRAM Caching for LSMs in an NVRAM Environment", ADBIS 2017.[[pdf]](https://llersch.github.io/blob/master/assets/Lersch_ADBIS_2017.pdf)
+- "Rethinking DRAM Caching for LSMs in an NVRAM Environment", ADBIS 2017.[[pdf]](https://llersch.github.io/assets/Lersch_ADBIS_2017.pdf)
 
 ### TU Kaiserslautern
 
