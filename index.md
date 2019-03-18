@@ -9,6 +9,7 @@
 
 ### TU Dresden & SAP SE
 - "Rethinking DRAM Caching for LSMs in an NVRAM Environment", ADBIS 2017.[[pdf]](https://llersch.github.io/assets/Lersch_ADBIS_2017.pdf)
+- "On the Diversity of Memory and Storage Technologies", Datenbank Spektrum 2018.[[sharedit]](https://rdcu.be/S4Y4)
 
 ### TU Kaiserslautern
 
