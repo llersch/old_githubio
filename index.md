@@ -8,11 +8,11 @@
 ## Academic Projects
 
 ### TU Dresden & SAP SE
-- "Rethinking DRAM Caching for LSMs in an NVRAM Environment", ADBIS 2017.[[pdf]](https://llersch.github.io/assets/Lersch_ADBIS_2017.pdf)
-- "On the Diversity of Memory and Storage Technologies", Datenbank Spektrum 2018.[[sharedit]](https://rdcu.be/S4Y4) [[pdf]](https://llersch.github.io/assets/memory_technologies.pdf)
+- "Rethinking DRAM Caching for LSMs in an NVRAM Environment", ADBIS 2017 [[pdf]](https://llersch.github.io/assets/Lersch_ADBIS_2017.pdf)
+- "On the Diversity of Memory and Storage Technologies", Datenbank Spektrum 2018 [[sharedit]](https://rdcu.be/S4Y4) [[pdf]](https://llersch.github.io/assets/memory_technologies.pdf)
 
 ### TU Kaiserslautern
-
+- "Decoupling Persistence Services from DBMS Buffer Management", GvDB2016 [[pdf]](https://github.com/llersch/llersch.github.io/files/3022255/DecoupledPersistence.pdf)
 - Master Thesis: "Decoupled Propagation for DBMS Architecture" [[pdf]](https://llersch.github.io/assets/decoupled_propagation_for_dbms_architectures.pdf) [[presentation]](https://llersch.github.io/assets/decoupled_propagation.pdf)
 - Guided Research: "Filtering and Indexing in a Partially-sorted Log Archive" [[pdf]](https://llersch.github.io/assets/indexinglogarchive.pdf)
 - Seminar: "Foster B+Trees" [[pdf]](https://llersch.github.io/assets/foster_b_trees.pdf) [[presentation]](https://llersch.github.io/assets/presentation_foster_b_trees.pdf)
